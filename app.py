@@ -15,6 +15,7 @@ class_labels = [
 
 st.title('Image Classification App')
 st.write('Upload an image and the model will predict its class.')
+st.write('*NOTE* : Keep labels within [ airplane, automobile, bird, cat, deer, dog, frog, horse, ship, truck])
 
 uploaded_file = st.file_uploader('Choose an image...', type=['jpg', 'jpeg', 'png'])
 

@@ -4,7 +4,7 @@ from PIL import Image
 import numpy as np
 import io
 
-MODEL_PATH = 'models/model_0.711.h5'
+MODEL_PATH = 'models/model_0.732.h5'
 model = load_model(MODEL_PATH)
 
 

@@ -1,4 +1,5 @@
-[# Image-Classification
+# Image-Classification
+
 🖼️ Image Classification on CIFAR-10
 
 This project implements an image classification model using the CIFAR-10 dataset. CIFAR-10 is a widely used benchmark dataset consisting of 60,000 32x32 color images in 10 different classes. The goal of this project is to train a deep learning model to accurately classify images into one of the following categories:
